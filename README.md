@@ -20,7 +20,7 @@
 </div>
 
 
-## 👋 Hey, I'm Fred
+## 👋 Hey, I'm Frederick (President of DU Fintech Society)
 
 Second-year CS & Maths at Durham. I mostly build maths-heavy or ML-adjacent things - a ([parimutuel prediction market](https://github.com/Ollies-Github/Moment)) (React Native, Fastify, Socket.IO), a **hackathon-winning** ([Gemini-powered skill-exchange app](https://github.com/JakubN27/skill-swap)), and ([multimodal classifiers](https://www.linkedin.com/in/frederick-connelly/details/projects/1769362629045/single-media-viewer?type=IMAGE&profileId=ACoAADFFovwBJ8hbOLUW9fM8pahre0mwldxXXTY&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_projects_details%3BbyDj%2BV16RPalwWW5Zmv%2FNA%3D%3D)) over EEG/image/text embeddings.
 
