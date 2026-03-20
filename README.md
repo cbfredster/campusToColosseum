@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png" width="64" height="64" alt="Solana" />
 
-# Durham Events
+# Durham University Societies On-Chain
 
 ### On-chain event ticketing for the North East, built on Solana.
 
