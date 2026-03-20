@@ -22,11 +22,11 @@
 
 ## 👋 Hey, I'm Fred
 
-Second-year CS & Maths at Durham. I mostly build things that are either maths-heavy, ML-adjacent, or both — a parimutuel prediction market with live WebSocket execution, a hackathon-winning skill-exchange app with Gemini-powered matching, and some multimodal ML work across EEG, image and text embeddings. The common thread is optimisation and getting the maths to actually do something useful in code.
+Second-year CS & Maths at Durham. I mostly build maths-heavy or ML-adjacent things — a parimutuel prediction market (React Native, Fastify, Socket.IO), a hackathon-winning Gemini-powered skill-exchange app, and multimodal classifiers over EEG/image/text embeddings. Common thread: optimisation, getting the maths to do something real in code.
 
-Durham Events is me going sideways for a bit. Got into the Solana ecosystem through Durham's FinTech Society, spotted a real use case for the university scene, and decided to actually build it — a decentralised event ticketing platform where every RSVP is an NFT minted straight to your wallet. No counterfeits, no lost tickets, verifiable on-chain. Coming from React Native and Node.js into Anchor and Solana's programming model has been a proper learning curve, but that's kind of the appeal.
+Durham Events is a deliberate pivot. Got into Solana through Durham's FinTech Society, spotted an obvious use case for the university scene, and built it — NFT-based event ticketing on Next.js 16 (Turbopack) + React 19, with Metaplex UMI and mpl-core handling minting, Supabase Postgres as the off-chain source of truth, and @solana/wallet-adapter-react for wallet auth. Every RSVP mints an mpl-core asset straight to your wallet with on-chain attributes (event ID, venue, date) — no separate metadata accounts, cheaper than SPL Token + Metadata, self-contained and verifiable without any off-chain dependency.
 
-This is actually where I'm heading - blockchain and DeFi are the destination, not a detour. Durham Events is the first step into that world, and the plan is to go deeper: on-chain yield strategies, DeFi protocol mechanics, and eventually bringing the quant and optimisation background properly into the decentralised finance space.
+Coming from Node/React Native backends into Anchor, UMI, and Solana's account model has been a proper learning curve. But blockchain and DeFi are where I'm heading, not just passing through — the plan is to go deeper into on-chain yield strategies and DeFi protocol mechanics, and eventually bring the quant background properly into that space.
 
 ## What is Durham Events?
 
