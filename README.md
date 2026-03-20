@@ -17,8 +17,16 @@
 [Recorded Demo](https://youtu.be/70YCRg4Fx9g)
 
 ---
-
 </div>
+
+
+## 👋 Hey, I'm Fred
+
+Second-year CS & Maths at Durham. I mostly build things that are either maths-heavy, ML-adjacent, or both — a parimutuel prediction market with live WebSocket execution, a hackathon-winning skill-exchange app with Gemini-powered matching, and some multimodal ML work across EEG, image and text embeddings. The common thread is optimisation and getting the maths to actually do something useful in code.
+
+Durham Events is me going sideways for a bit. Got into the Solana ecosystem through Durham's FinTech Society, spotted a real use case for the university scene, and decided to actually build it — a decentralised event ticketing platform where every RSVP is an NFT minted straight to your wallet. No counterfeits, no lost tickets, verifiable on-chain. Coming from React Native and Node.js into Anchor and Solana's programming model has been a proper learning curve, but that's kind of the appeal.
+
+This is actually where I'm heading - blockchain and DeFi are the destination, not a detour. Durham Events is the first step into that world, and the plan is to go deeper: on-chain yield strategies, DeFi protocol mechanics, and eventually bringing the quant and optimisation background properly into the decentralised finance space.
 
 ## What is Durham Events?
 
