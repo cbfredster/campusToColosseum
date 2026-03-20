@@ -14,7 +14,7 @@
 [![Metaplex](https://img.shields.io/badge/Metaplex-FF6B35?style=flat-square)](https://www.metaplex.com/)
 [![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)](LICENSE)
 
-**[Live Demo](#)
+**[Live Demo](https://youtu.be/70YCRg4Fx9g)
 
 ---
 
