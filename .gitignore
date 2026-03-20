@@ -32,6 +32,21 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
+# Supabase and Solana secrets
+.env
+.env.local
+.env.production
+.env.development
+
+# SQL migration scripts (if sensitive)
+scripts/*.sql
+
+# Wallet keys or mnemonics (never push these)
+*.key
+*.mnemonic
+
+# Optional: lock file (uncomment if you don't want to push)
+# pnpm-lock.yaml
 
 # vercel
 .vercel
